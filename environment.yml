@@ -1,0 +1,14 @@
+name: ooi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - requests
+  - xarray
+  - netcdf4
+  - pandas
+  - numpy
+  - matplotlib
+  - bokeh
+  - cmocean
