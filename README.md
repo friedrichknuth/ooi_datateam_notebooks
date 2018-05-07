@@ -6,20 +6,20 @@ Work on this repo is in progress. Some notebooks may not be in a final state. Ot
 ## Content
 
 #### Data Access and Plotting Notebooks
-* Access, plot and work with various data types.  
+* Access, plot, and work with various data types.  
 
-#### Metadata Access Notebooks
-* Retrieve environmental shipboard data.  
+#### Metadata Access Notebooks 
 * Request asset deployment information.  
 * Request calibration values.  
 * Parse automated QC data quality algorithm test results.  
-* Request and use annotations. 
+* Request annotations. 
+* Using annotations and qc values to filter out questionable data.  
 
 #### Quality Control Notebooks
 * Examples of OOI data QC workflows and reports in notebook form.
 
 #### Known Issues Notebooks
-* Wherever applicable, known issues are mentioned in context of the notebooks.
+* Wherever applicable, known issues are mentioned in context of the notebooks, but also reiterated here.
 * Other known high-level issues and Redmine summaries are provide here.
 
 <!-- #### Science Notebooks -->
@@ -110,16 +110,15 @@ Sage Lichtenwalner
 
 The mission of the OOI Data Team at Rutgers University is to facilitate access to quality-controlled and annotated OOI datasets. We encourage researchers to collaborate through the use of these real-time, concurrent, and interdisciplinary measurements, in the exploration of short-lived events, as well as long-term trends in ocean systems.
 
+#### Contact
+Email: help@oceanobservatories.org
+
 #### TODO
-* add example on parsing and plotting qc algorithm results
 * add notebook on retrieving and working with ooi shipboard data
 * include overview of status on shipboard data under known issues
 * add lines to request a count of all annotations in the system to annotations notebook
 * add example of using annotations and qc values to filter out questionable data
 * add notebook on parsing Redmine for known issue entered by the data team
 * add notebook on how to request and download data from multiple instruments
-
-#### Contact
-Email: help@oceanobservatories.org
 
 
