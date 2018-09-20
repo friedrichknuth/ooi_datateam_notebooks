@@ -9,6 +9,5 @@ dependencies:
   - netcdf4
   - pandas
   - numpy
-  - matplotlib
   - bokeh
   - cmocean
